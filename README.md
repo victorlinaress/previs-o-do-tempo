@@ -1,4 +1,4 @@
-Desenvolvi um projeto sobre dados meteorológicos, o aplicativo exibe as informações mais recentes sobre temperatura, umidade e vento sobrea cidade, acompanhadas de imagens ilustrativas do clima. Criei esse projeto visando praticar APIs.
+Desenvolvi um projeto sobre dados meteorológicos, o aplicativo exibe as informações mais recentes sobre temperatura, umidade e vento sobrea cidade, acompanhadas de imagens ilustrativas do clima. Criei esse projeto visando praticar APIs, permitindo-me integrar dados em tempo real e proporcionar aos usuários uma visão instantânea das condições meteorológicas locais. A interface intuitiva e as imagens cativantes foram cuidadosamente selecionadas para tornar a experiência do usuário mais envolvente e informativa. 
 
 
 
