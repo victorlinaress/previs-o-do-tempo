@@ -1,4 +1,5 @@
-ℹ️ Como Funciona:
+ℹ️ Como Funciona
+
 Desenvolvi um projeto sobre dados meteorológicos, o aplicativo exibe as informações mais recentes sobre temperatura, umidade e vento sobre a cidade, acompanhadas de imagens ilustrativas do clima. Criei esse projeto visando praticar APIs, permitindo-me integrar dados em tempo real e proporcionar aos usuários uma visão instantânea das condições meteorológicas locais. 
 
 
