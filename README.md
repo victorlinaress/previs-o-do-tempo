@@ -8,5 +8,8 @@ Desenvolvi um projeto sobre dados meteorológicos, o aplicativo exibe as informa
 ⚠️ Tecnologias Utilizadas:
 
 HTML
+
 CSS
+
 JavaScript
+
